@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kelvin Muendo" />
+  <img src="textforreadme.png" alt="Kelvin Muendo" />
 </h1>
 
 ## Hey! 👋
@@ -14,5 +14,5 @@ I'm Kelvin, a 22 years old web developer from Kenya.
 
 ## Contact
 - [https://my-website-mu-umber.vercel.app/](https://https://my-website-mu-umber.vercel.app/)
-- [@Kelvinmuendo](https://twitter.com/martonlederer) on Twitter
+- [@Kelvinmuendo](https://twitter.com/kelvin muendo) on Twitter
 - [@Kelvinmuendor](./) on Discord
