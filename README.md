@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="textforreadme.png" alt="Kelvin Muendo" />
+  <img src="name.svg" alt="Kelvin Muendo" />
 </h1>
 
 ## Hey! 👋
