@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Kelvin, a 22 years old web developer from Kenya.
+I'm Kelvin, am a fullstack web developer.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, C#
