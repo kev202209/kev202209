@@ -13,6 +13,6 @@ I'm Kelvin, am a fullstack web developer.
 + a lot more :D
 
 ## Contact
-- [https://my-website-mu-umber.vercel.app/](https://https://my-website-mu-umber.vercel.app/)
+- [https://kelvinmuendo.vercel.app/](https://https://kelvinmuendo.vercel.app/)
 - [@Kelvinmuendo](https://twitter.com/kelvinmuendo) on Twitter
 - [@Kelvinmuendor](./) on Discord
