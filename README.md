@@ -15,4 +15,4 @@ I'm Kelvin, am a fullstack web developer.
 ## Contact
 - [https://kelvinmuendo.vercel.app/](https://https://kelvinmuendo.vercel.app/)
 - [@Kelvinmuendo](https://twitter.com/kelvinmuendo) on Twitter
-- [@Kelvinmuendor](./) on Discord
+- [@Kelvinmuendo](./) on Discord
