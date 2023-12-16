@@ -6,10 +6,10 @@
 I'm Kelvin, am a fullstack web developer.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#,Java,Dart
-- ⚙️ React, Svelte, Vue, Next, Nuxt, Laravel, Nodejs,Flutter, React-native,Spring
+- 👨‍💻 TypeScript, JavaScript, PHP, C#,Java,Dart,solidity,C,CPP
+- ⚙️ React, Svelte, Vue, Next, Nuxt, Laravel, Nodejs, Flutter, React-native, Spring
 - 👁️ SASS, CSS, Stylus, TailwindCSS
-- 💽 MySQL, Postgres, MongoDB, NeonDb, Pinecone
+- 💽 MySQL, Postgres, MongoDB, NeonDb, Pinecone,Firebase
 + a lot more :D
 
 ## Contact
