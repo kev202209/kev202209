@@ -14,7 +14,7 @@ I'm Kelvin, am a software developer and a cybersecurity enthuthiast.
 + a lot more :D
 
 ## Contact
-- [https://kelvinmuendo.vercel.app/](My Portfolio website)
-- [www.linkedin.com/in/kevin-muendo-372928261](LinkedIn)
+- [My portfolio website](https://kelvinmuendo.vercel.app)
+- [LinkedIn](www.linkedin.com/in/kevin-muendo-372928261)
 - [@Kelvinmuendo](https://twitter.com/kelvinmuendo) on Twitter
 - [@Kelvinmuendo](./) on Discord
