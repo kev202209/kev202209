@@ -10,7 +10,7 @@ I'm Kelvin, am a software developer and a cybersecurity enthuthiast.
 - ⚙️ React, Svelte, Vue, Next, Nuxt, Laravel, Nodejs, Flutter, React-native, Spring
 - 👁️ SASS, CSS, Stylus, TailwindCSS
 - 💽 MySQL, Postgres, MongoDB, NeonDb, Pinecone,Firebase
-- 💻 Bash, powershell,Zshell
+- 💻 Bash, Powershell, Zshell
 + a lot more :D
 
 ## Contact
